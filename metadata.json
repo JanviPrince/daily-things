@@ -1,0 +1,6 @@
+{
+  "name": "Daily Things",
+  "description": "A simple and clean daily task tracker built with Node.js, Express, and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
